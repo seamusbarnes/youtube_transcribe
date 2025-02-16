@@ -25,3 +25,6 @@ data/
 *.bak
 *.swp
 *.tmp
+
+# Ignore generated .txt files
+*.txt
